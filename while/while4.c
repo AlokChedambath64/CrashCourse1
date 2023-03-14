@@ -10,7 +10,6 @@ int main()
     while (i < N)
     {
         sum = sum + i;
-        i++;
     }
     printf("%d\n", sum);
 }
